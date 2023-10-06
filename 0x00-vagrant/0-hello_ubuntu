@@ -1,1 +1,2 @@
-uname without any option will print kernel name
+#!/bin/bash
+kernel name
